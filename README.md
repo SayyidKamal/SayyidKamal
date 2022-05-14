@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmad Sayyid Kamal
 ============================
 
-Android Developer
+Data Science 
 -----------------
 
 I am a software engineer bachelor whom has branched in to web dev, mobile dev, ui/ux, networking and desktop apps. I have now found my path in tech to be a Data science !
