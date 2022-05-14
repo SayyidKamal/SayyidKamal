@@ -1,4 +1,4 @@
-Hi 👋 My name is Ahmad Kamal
+Hi 👋 My name is Ahmad Sayyid Kamal
 ============================
 
 Android Developer
