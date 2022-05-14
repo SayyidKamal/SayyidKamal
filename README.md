@@ -4,7 +4,7 @@ Hi 👋 My name is Ahmad Sayyid Kamal
 Data Science 
 -----------------
 
-I am a software engineer bachelor whom has branched in to web dev, mobile dev, ui/ux, networking and desktop apps. I have now found my path in tech to be a Data science !
+I am a software engineer whom has branched in to web dev, mobile dev, ui/ux, networking and desktop apps. I have now found my path in tech to be a Data science !
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Akamal](http://https://akamal.webflow.io/)
