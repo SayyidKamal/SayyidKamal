@@ -8,7 +8,6 @@ I am a software engineer whom has branched in to web dev, mobile dev, ui/ux, net
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Akamal](http://https://akamal.webflow.io/)
-* ✉️  You can contact me at [sayyidkamal@yahoo.com](mailto:sayyidkamal@yahoo.com)
 * 🧠  I'm learning TensorFlow, Scikit-learn, Pandas, Matplolib, Seaborn, Numpy
 
 ### Skills
