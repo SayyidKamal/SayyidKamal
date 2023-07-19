@@ -6,9 +6,9 @@ Data Engineer @ Huawei
 
 I am a software engineer whom has branched in to web dev, mobile dev, ui/ux, networking and desktop apps. I have now found my path in tech to be a Data Engineering!
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Nigeria 
 * 🖥️  See my portfolio at [Akamal](http://https://akamal.webflow.io/)
-* 🧠  Experienced in programming with different laguages like python, Sql, Java, Flutter
+
 
 ### Skills
 
